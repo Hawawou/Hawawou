@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Hawa 👋. Welcome to my profile.
 
 <!--
 **Hawawou/Hawawou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a data science chatbot.
+- 🌱 I’m currently learning more NLP techniques
+- 👯 I’m looking to collaborate on data science (more particularly NLP) projects
+
